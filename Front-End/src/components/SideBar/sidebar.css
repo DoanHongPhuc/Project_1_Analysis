@@ -1,0 +1,34 @@
+.side_bar_avatar{
+    background-color: #0099a6;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+}
+.side_bar_container{
+    background-color: #faf8f7;
+    height: 100vh;
+}
+
+.side_bar_btn{
+    background-color: #dc4c3e;
+    color: white;
+    cursor: pointer;
+}
+.side_bar_btn:hover{
+    background-color: #dc3c2e;
+}
+.nav-item:hover{
+    background-color: #f6efee;
+    cursor: pointer;
+}
+.nav-item-select{
+    background-color: #fee6e3;
+}
+.avatar__image {
+    width: 30px;
+    height: 30px;
+    border-radius: 999px;
+    object-fit: cover;
+}
